@@ -1,0 +1,35 @@
+# Desafio de Programação - Cálculo da Variável `SOMA`
+
+## Descrição do Desafio
+
+Dado o trecho de código abaixo:
+
+```pseudocode
+int INDICE = 12, SOMA = 0, K = 1;
+
+enquanto K < INDICE faça {
+    K = K + 1;
+    SOMA = SOMA + K;
+}
+
+imprimir(SOMA);
+
+Explicação
+O código inicializa três variáveis:
+
+INDICE é definido como 12.
+SOMA é inicializado com 0.
+K é inicializado com 1.
+O loop while continua a executar enquanto K for menor que INDICE. A cada iteração, K é incrementado em 1, e o novo valor de K é adicionado à SOMA.
+
+Análise do Resultado
+Iterações do loop:
+
+K = 1: Incrementa K para 2, adiciona 2 a SOMA (SOMA = 2).
+K = 2: Incrementa K para 3, adiciona 3 a SOMA (SOMA = 5).
+K = 3: Incrementa K para 4, adiciona 4 a SOMA (SOMA = 9).
+E assim por diante, até que K atinja 12.
+O loop termina quando K chega a 12, pois a condição K < INDICE (12 < 12) não é mais verdadeira.
+
+Resultado Final
+Ao final do processamento, o valor da variável SOMA será 77.

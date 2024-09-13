@@ -1,0 +1,22 @@
+# Simulador de Interruptores e Lâmpadas
+
+Este projeto simula o problema dos interruptores e das lâmpadas. O objetivo é identificar qual interruptor controla qual lâmpada usando apenas duas idas até as salas das lâmpadas.
+
+## Estrutura do Projeto
+
+- **`controller.py`**: Define o controle dos interruptores e lâmpadas, simulando a mudança de status e temperatura das lâmpadas com base nos interruptores.
+- **`simulator.py`**: Executa o processo de simulação e exibe o status das lâmpadas.
+- **`tests/test_simulator.py`**: Testa a simulação para garantir que o comportamento está correto.
+
+## Requisitos
+
+- Python 3.11 ou superior
+
+## Instalação
+
+Clone o repositório e instale as dependências necessárias
+
+Como Executar
+Para simular o controle dos interruptores e das lâmpadas, execute o seguinte comando:
+
+python simulator.py

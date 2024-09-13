@@ -1,0 +1,24 @@
+Fibonacci Checker
+Este é um programa em Python que verifica se um número pertence à sequência de Fibonacci. A sequência de Fibonacci começa com 0 e 1, e cada número subsequente é a soma dos dois números anteriores (por exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...).
+
+Funcionalidades
+Calcula a sequência de Fibonacci até o número informado.
+Verifica se o número informado pertence à sequência de Fibonacci.
+Informa ao usuário se o número pertence ou não à sequência.
+
+Execute o programa:
+
+No terminal, execute o comando:  python main.py
+
+Insira um número:
+
+O programa solicitará que você insira um número. Digite um número inteiro para verificar se ele pertence à sequência de Fibonacci.
+
+Exemplo de Uso .:
+
+Informe um número para verificar se pertence à sequência de Fibonacci: 21
+O número 21 pertence à sequência de Fibonacci.
+
+Requisitos
+
+Python 3.x
