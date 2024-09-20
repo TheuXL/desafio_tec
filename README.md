@@ -1,4 +1,5 @@
 Desafios Técnicos em Python
+
 Este repositório contém exemplos simples e práticos das minhas habilidades de programação em Python. Cada exemplo foi desenvolvido para demonstrar o uso de lógica, algoritmos e boas práticas na resolução de problemas específicos.
 
 Tecnologias Utilizadas
